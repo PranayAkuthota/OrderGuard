@@ -1,23 +1,23 @@
 
 # OrderGuard – Order Lifecycle & Inventory Consistency Engine
 
-## 🚀 Overview
+##  Overview
 A backend system designed to ensure consistent order processing and prevent race conditions in inventory systems.
 
-## ⚙️ Features
+## ⚙️Features
 - Rule-based order state transitions
 - Atomic inventory consistency checks
 - 20+ REST APIs for order processing
 - Real-time synchronization
 
-## 🛠 Tech Stack
+##  Tech Stack
 Node.js, Express.js, MongoDB, MySQL, JWT
 
-## 📊 Key Highlights
+## 📊Key Highlights
 - Prevents race conditions using atomic operations
 - Designed for scalable backend systems
 
-## ▶️ Run Locally
+##  Run Locally
 
 
 
