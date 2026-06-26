@@ -149,5 +149,5 @@ orderguard/
 ---
 
 <div align="center">
-  <p>Built with ❤️ by Pranaykumar Akuthota for Scaler AI Labs.</p>
+  <p>Built with ❤️ by Pranaykumar Akuthota </p>
 </div>
