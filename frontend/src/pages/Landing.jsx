@@ -164,7 +164,7 @@ const Landing = () => {
             <span className="text-lg font-bold tracking-tight text-slate-800 dark:text-white">OrderGuard</span>
           </div>
           <p className="text-sm text-slate-500 dark:text-secondary-400">
-            &copy; {new Date().getFullYear()} OrderGuard. Built with ❤️ by Pranay kumar Akuthota.
+            &copy; {new Date().getFullYear()} OrderGuard. Built for Scaler AI Labs.
           </p>
         </div>
       </footer>
